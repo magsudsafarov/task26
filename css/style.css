@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#blue{
+    color: #4D9ED0;
+}
+#second .box{
+    justify-content: center;
+    border: none;
+}
+
